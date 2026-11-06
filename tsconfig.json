@@ -1,0 +1,3 @@
+{
+  "extends": "@sendero/config/tsconfig.base.json"
+}
